@@ -15,3 +15,5 @@ sed 's/dna_meth\///' | sed 's#/[^ ]*##' | sed 's/dna_meth\///2' |  sed 's#/[^ ]*
 |	8cell	| 521904 (18.31%) |
 |	epiblast	|	205258 (2.92%) |
 |	ICM |		377882 (9.08%) |
+# №2e
+![image](https://user-images.githubusercontent.com/22128700/155002259-7db73d43-19c4-449b-bfcf-ec57067be7dd.png)
