@@ -1,4 +1,10 @@
+# Colab: [ссылка](https://colab.research.google.com/drive/1oUfnUF4hRnQzPVgvbJDlUyNkvppfVVIc?usp=sharing)
 # №1
+![image](https://user-images.githubusercontent.com/22128700/155006038-9600facc-69e9-468e-a40c-880719b8215c.png)
+![image](https://user-images.githubusercontent.com/22128700/155006094-82fb16c2-b186-40a5-a228-479491f12a81.png)
+![image](https://user-images.githubusercontent.com/22128700/155006117-e4b948fd-ac44-4173-b173-8a3a2304ed8b.png)
+
+По сравнению с предыдушими ДЗ, могу выделить только отличие в меньшем кол-во дупликаций.
 # №2a
 |Название	 |chr11:11347700-11367700|	chr11:40185800-40195800|
 |--- |---|---|
