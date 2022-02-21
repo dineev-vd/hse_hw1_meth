@@ -17,3 +17,5 @@ sed 's/dna_meth\///' | sed 's#/[^ ]*##' | sed 's/dna_meth\///2' |  sed 's#/[^ ]*
 |	ICM |		377882 (9.08%) |
 # №2e
 ![image](https://user-images.githubusercontent.com/22128700/155002259-7db73d43-19c4-449b-bfcf-ec57067be7dd.png)
+Как видно из гистограмм, на стадии ICM процент метилирования ДНК самый маленький, в то время как на более ранней 8cell и более поздней epiblast стадиях процент метилирования растёт, что соответствует реальной картине.
+![image](https://user-images.githubusercontent.com/22128700/155002749-9410d3f8-99fc-48d1-8a60-4709868813d3.png)
